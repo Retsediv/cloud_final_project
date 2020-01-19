@@ -23,7 +23,7 @@ Mappings:
       SeederFunctionBucket: fsd-aws-wildrydes-eu-west-1
   Constants:
     AppKeys:
-      SeedRepository: https://s3.amazonaws.com/aws-fullstack-template/goals-webapp.zip
+      SeedRepository: https://github.com/Retsediv/cloud_final_project
     S3Keys:
       ListGoalsCode: functions/ListGoals.zip
       CreateGoalCode: functions/CreateGoal.zip
