@@ -1,0 +1,6 @@
+assets/node_modules
+assets/node_modules/
+assets/node_modules/*
+.idea
+.idea/
+.idea/*
